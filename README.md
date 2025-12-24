@@ -70,25 +70,25 @@ Project ini dibuat untuk keperluan akademik dan pembelajaran. Seluruh fitur dan 
 Berikut adalah tampilan halaman Admin pada website PropertyKu.
 
 ### Admin Apartemen
-![Admin Apartemen](admin/Admin-Apartemen.JPEG)
+![Admin Apartemen](admin/Admin-Apartemen.jpeg)
 
 ### Admin Dashboard
-![Admin Dashboard](admin/Admin-Dashboard.JPEG)
+![Admin Dashboard](admin/Admin-Dashboard.jpeg)
 
 ### Admin Data Properti
-![Admin Data Properti](admin/Admin-Data-Properti.JPEG)
+![Admin Data Properti](admin/Admin-Data-Properti.jpeg)
 
 ### Admin Message
-![Admin Message](admin/Admin-Message.JPEG)
+![Admin Message](admin/Admin-Message.jpeg)
 
 ### Admin Riwayat
-![Admin Riwayat](admin/Admin-Riwayat.JPEG)
+![Admin Riwayat](admin/Admin-Riwayat.jpeg)
 
 ### Admin Rumah
-![Admin Rumah](admin/Admin-Rumah.JPEG)
+![Admin Rumah](admin/Admin-Rumah.jpeg)
 
 ### Admin Survey
-![Admin Survey](admin/Admin-Survey.JPEG)
+![Admin Survey](admin/Admin-Survey.jpeg)
 
 ---
 
