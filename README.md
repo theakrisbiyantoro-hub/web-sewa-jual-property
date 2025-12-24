@@ -94,20 +94,28 @@ Berikut adalah tampilan halaman Admin pada website PropertyKu.
 
 ## 🧑 User
 
-Keterangan singkat: Bagian ini menampilkan tampilan untuk User.
+Berikut adalah tampilan halaman User pada website PropertyKu.
 
-<!-- Gambar 1 -->
-![User Login](images/user-login.png)
-*Login page untuk User*
+### Login User
+![Login User](user/login propertyku.jpeg)
 
-<!-- Gambar 2 -->
-![User Dashboard](images/user-dashboard.png)
-*Dashboard utama User*
+### Sign Up User
+![Sign Up User](user/sign up propertyku.jpeg)
 
-<!-- Tambahkan gambar lain user di sini -->
-<!-- Contoh:
-![User Example](images/user-example.png)
-*Keterangan gambar* -->
+### User Home
+![User Home](user/user home.jpeg)
+
+### Detail Properti
+![User Detail Property](user/user detail property.jpeg)
+
+### Favorite Properti
+![User Favorite](user/user favorite.jpeg)
+
+### Booking History
+![User Booking History](user/user booking history.jpeg)
+
+### Contact Us
+![User Contact Us](user/user contact us.jpeg)
 
 ---
 
