@@ -64,5 +64,42 @@ Alasan tidak menggunakan fitur tersebut adalah keterbatasan waktu, scope project
 ## 📌 Catatan
 Project ini dibuat untuk keperluan akademik dan pembelajaran. Seluruh fitur dan implementasi disesuaikan dengan kebutuhan project UAS.
 
+
+## ⚡ Admin
+
+Keterangan singkat: Bagian ini menampilkan tampilan untuk Admin.
+
+<!-- Gambar 1 -->
+![Admin Login](images/admin-login.png)
+*Login page untuk Admin*
+
+<!-- Gambar 2 -->
+![Admin Dashboard](images/admin-dashboard.png)
+*Dashboard utama Admin*
+
+<!-- Tambahkan gambar lain admin di sini -->
+<!-- Contoh:
+![Admin Example](images/admin-example.png)
+*Keterangan gambar* -->
+
+---
+
+## 🧑 User
+
+Keterangan singkat: Bagian ini menampilkan tampilan untuk User.
+
+<!-- Gambar 1 -->
+![User Login](images/user-login.png)
+*Login page untuk User*
+
+<!-- Gambar 2 -->
+![User Dashboard](images/user-dashboard.png)
+*Dashboard utama User*
+
+<!-- Tambahkan gambar lain user di sini -->
+<!-- Contoh:
+![User Example](images/user-example.png)
+*Keterangan gambar* -->
+
 ---
 
