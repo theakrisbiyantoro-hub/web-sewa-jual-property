@@ -70,8 +70,8 @@ Project ini dibuat untuk keperluan akademik dan pembelajaran. Seluruh fitur dan 
 Keterangan singkat: Bagian ini menampilkan tampilan untuk Admin.
 
 <!-- Gambar 1 -->
-![Admin Login](images/admin-login.png)
-*Login page untuk Admin*
+![Admin Apartmen](images/Admin-Apartemen.JPEG)
+*Admin*
 
 <!-- Gambar 2 -->
 ![Admin Dashboard](images/admin-dashboard.png)
