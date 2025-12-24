@@ -119,3 +119,22 @@ Berikut adalah tampilan halaman User pada website PropertyKu.
 
 ---
 
+👩‍💻 Anggota Kelompok
+
+Project PropertyKu ini dikembangkan oleh:
+
+Anggun Ismi Nurhalisa
+NIM: 24051204039
+
+Frederica Gabrielle J. P.
+NIM: 24051204049
+
+Alethea Tsabita Calista Syawal
+NIM: 24051204057
+
+---
+
+🌐 Link Website
+
+Website dapat diakses melalui tautan berikut:
+👉 https://propertiku.unesa.site/
