@@ -97,25 +97,25 @@ Berikut adalah tampilan halaman Admin pada website PropertyKu.
 Berikut adalah tampilan halaman User pada website PropertyKu.
 
 ### Login User
-![Login User](user/login propertyku.jpeg)
+![Login User](user/login-propertyku.jpeg)
 
 ### Sign Up User
-![Sign Up User](user/sign up propertyku.jpeg)
+![Sign Up User](user/sign-up-propertyku.jpeg)
 
 ### User Home
-![User Home](user/user home.jpeg)
+![User Home](user/user-home.jpeg)
 
 ### Detail Properti
-![User Detail Property](user/user detail property.jpeg)
+![User Detail Property](user/user-detail-property.jpeg)
 
 ### Favorite Properti
-![User Favorite](user/user favorite.jpeg)
+![User Favorite](user/user-favorite.jpeg)
 
 ### Booking History
-![User Booking History](user/user booking history.jpeg)
+![User Booking History](user/user-booking-history.jpeg)
 
 ### Contact Us
-![User Contact Us](user/user contact us.jpeg)
+![User Contact Us](user/user-contact-us.jpeg)
 
 ---
 
