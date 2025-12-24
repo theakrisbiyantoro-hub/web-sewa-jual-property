@@ -70,17 +70,33 @@ Project ini dibuat untuk keperluan akademik dan pembelajaran. Seluruh fitur dan 
 Keterangan singkat: Bagian ini menampilkan tampilan untuk Admin.
 
 <!-- Gambar 1 -->
-![Admin Apartmen](images/Admin-Apartemen.JPEG)
-*Admin*
+![Admin Apartemen](images/admin/admin-apartemen.jpeg)
+*Halaman Admin Apartemen*
 
 <!-- Gambar 2 -->
-![Admin Dashboard](images/admin-dashboard.png)
+![Admin Dashboard](images/admin/admin-dashboard.jpeg)
 *Dashboard utama Admin*
 
-<!-- Tambahkan gambar lain admin di sini -->
-<!-- Contoh:
-![Admin Example](images/admin-example.png)
-*Keterangan gambar* -->
+<!-- Gambar 3 -->
+![Admin Data Properti](images/admin/admin-data-properti.jpeg)
+*Halaman Data Properti Admin*
+
+<!-- Gambar 4 -->
+![Admin Message](images/admin/admin-message.jpeg)
+*Halaman Pesan/Admin Messages*
+
+<!-- Gambar 5 -->
+![Admin Riwayat](images/admin/admin-riwayat.jpeg)
+*Halaman Riwayat Transaksi/Admin History*
+
+<!-- Gambar 6 -->
+![Admin Rumah](images/admin/admin-rumah.jpeg)
+*Halaman Admin Rumah*
+
+<!-- Gambar 7 -->
+![Admin Survey](images/admin/admin-survey.jpeg)
+*Halaman Survey Admin*
+
 
 ---
 
