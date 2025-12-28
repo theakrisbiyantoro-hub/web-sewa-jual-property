@@ -1,6 +1,6 @@
 # PropertyKu
 
-PropertyKu adalah sebuah website berbasis web yang dikembangkan sebagai project UAS pada mata kuliah Pemrograman Berbasis Project. Website ini berfungsi sebagai sistem informasi jual dan sewa properti berupa rumah dan apartemen yang dapat diakses secara online.
+PropertyKu adalah sebuah website berbasis web yang dikembangkan sebagai project UAS pada mata kuliah Pemrograman Berbasis Platform. Website ini berfungsi sebagai sistem informasi jual dan sewa properti berupa rumah dan apartemen yang dapat diakses secara online.
 
 Project ini dirancang untuk memudahkan pengguna dalam mencari informasi properti, melihat detail properti, serta melakukan booking sewa atau beli secara online tanpa menggunakan sistem pembayaran pihak ketiga.
 
@@ -15,20 +15,31 @@ Project ini dirancang untuk memudahkan pengguna dalam mencari informasi properti
 ---
 
 ## 👥 Jenis Pengguna
-### User
+### 👤 User
 - Registrasi dan login akun
 - Melihat daftar dan detail properti
-- Melakukan booking sewa atau beli
-- Menggunakan fitur pencarian dan filter
+- Melakukan booking sewa atau beli properti
+- Menggunakan fitur pencarian dan filter properti
 - Menyimpan properti favorit
-- Melihat riwayat booking
+- Melihat riwayat booking dan status transaksi
+- Mengunggah bukti pembayaran
+- Mengecek status verifikasi booking
+- Mengunduh invoice booking (PDF) beserta QR Code
+- Mengirim pesan untuk survey properti
 - Mengirim kritik dan saran
 
-### Admin
+
+### 👨‍💼 Admin
 - Login ke dashboard admin
+- Mengelola data properti rumah
+- Mengelola data apartemen
 - Mengelola data properti (tambah, edit, hapus)
-- Mengelola gambar dan video properti
-- Mengelola data booking user
+- Melihat dan memproses data booking user
+- Memverifikasi bukti pembayaran booking
+- Menyetujui atau menolak booking (approve / reject)
+- Melihat hasil survei properti dari user
+- Melihat pesan kritik dan saran dari user
+- Logout dari sistem
 
 ---
 
@@ -46,7 +57,6 @@ Project ini dirancang untuk memudahkan pengguna dalam mencari informasi properti
 - Payment Gateway (Midtrans)
 - Forgot Password
 - Chatbot AI
-- Generate QR otomatis (QR masih bersifat statis)
 
 Alasan tidak menggunakan fitur tersebut adalah keterbatasan waktu, scope project UAS, serta penggunaan teknologi dasar tanpa framework tambahan.
 
